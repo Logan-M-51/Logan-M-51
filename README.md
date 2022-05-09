@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Logan-M-51
-- 👀 I’m interested in game dev, and learning more about software development
-- 🌱 I’m currently brushing up on my Python, C++ and Java skils
-- 💞️ I’m looking to learn about OpenGL next
+-  Hi, I’m Logan
+-  I’m interested in game dev, and learning more about software development
+-  I’m currently brushing up on my Python, C++ and Java skils
+-  I’m looking to learn about OpenGL next and continue devvolping my coding skills
 
 
 <!---
