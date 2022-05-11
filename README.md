@@ -1,7 +1,7 @@
--  Hi, I’m Logan
--  I’m interested in game dev, and learning more about software development
--  I’m currently brushing up on my Python, C++ and Java skils
--  I’m looking to learn about OpenGL next and continue devvolping my coding skills
+-  Hi, I’m Logan M
+-  I’m interested in game dev and improving my software development skills in my free time away from studies
+-  I’m mostly familiar with Python, Java, and C++/C from my degree program but I would like to further my knowledge in all programming languages
+-  I’m looking to learn and code a lot of lines
 
 
 <!---
