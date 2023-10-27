@@ -1,4 +1,4 @@
-- My name is Logan and I am a Computer Engineering Master's student come Autumn 2022. 
+- My name is Logan and I am a Computer Engineering Master's student graduating Mar 2024. 
 - I am experienced with Python, Java, C and C++ from my course work, and I hope to exapnd my language toolbelt further.
 - This GitHub page is mostly filled with small personal projects completed for fun or practice.
 
